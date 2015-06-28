@@ -1,0 +1,8 @@
+
+**/*.pyc
+texts/**
+**/__pycache__
+**/*.pdf
+*.egg-info/
+*.swp
+*.swo
